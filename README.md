@@ -1,6 +1,6 @@
 # 💫 Avinash Goud
 # About Me:
-CSE (Data Science)    Reddy Vishwavidyapeeth, passionate about software development, data-driven solutions, and building real-world applications. Actively learning, experimenting, and improving skills in programming, problem-solving, and modern technologies.
+CSE (Data Science)    Vishwavidyapeeth, passionate about software development, data-driven solutions, and building real-world applications. Actively learning, experimenting, and improving skills in programming, problem-solving, and modern technologies.
 
 
 ## 🌐 Socials:
