@@ -1,6 +1,22 @@
 # 💫 Avinash Goud
 # About Me:
-CSE (Data Science)     passionate about software development, data-driven solutions, and building real-world applications. Actively learning, experimenting, and improving skills in programming, problem-solving, and modern technologies.
+🚀 I build before I study.
+Turning ideas into production-ready software.
+
+💡 Interests:
+AI • Cybersecurity • Full-Stack Engineering • Scalable Systems
+
+🧱 Building:
+AI tools, secure applications, and real-world problem solvers
+
+🤝🏻 Let’s collaborate on:
+Impact-driven AI/ML, security, and full-stack projects
+
+📝 Learning:
+Advanced Python • Web Security • ML • System Design
+
+⚡ Fun fact:
+Code > Courses. Projects > Certificates.
 
 <!-- Snake Game Repo View -->
 
