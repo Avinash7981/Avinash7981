@@ -18,6 +18,13 @@ Advanced Python • Web Security • ML • System Design
 ⚡ Fun fact:
 Code > Courses. Projects > Certificates.
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F70000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anish+Kumar;a.k.a+R3AP3R+editz" alt="Typing SVG" />
+  </a>
+</h1>
+
+
 
 
 ## 🌐 Socials:
@@ -28,6 +35,7 @@ Code > Courses. Projects > Certificates.
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 
 # 💻 Tech Stack:
