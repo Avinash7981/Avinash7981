@@ -2,6 +2,11 @@
 # About Me:
 CSE (Data Science)     passionate about software development, data-driven solutions, and building real-world applications. Actively learning, experimenting, and improving skills in programming, problem-solving, and modern technologies.
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avinash_a1_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-goud-96809337a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinashgoud123456@gmail.com) 
