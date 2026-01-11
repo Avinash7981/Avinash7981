@@ -51,4 +51,48 @@ Code > Courses. Projects > Certificates.
 ---
 [![](https://visitcount.itsvg.in/api?id=Avinash7981&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+## 🎮 3D Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/diff/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/diff/profile-season-animate.svg">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/iotserver24/iotserver24/diff/profile-season-animate.svg">
+</picture>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iotserver24&custom_title=%F0%9F%93%88+Contribution+Timeline&bg_color=0D1117&color=DC143C&line=DC143C&point=FF0000&area_color=DC143C&area=true&hide_border=true&title_color=DC143C" alt="Contribution Graph" />
+</p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/iotserver24/iotserver24/output/github-contribution-grid-snake.svg" />
+</picture>
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+## 💖 Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/r3ap3redit">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  &nbsp;
+  <a href="https://razorpay.me/@megavault">
+    <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay(in INR)" />
+  
+  </a>
+</p>
