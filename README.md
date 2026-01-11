@@ -18,12 +18,6 @@ Advanced Python • Web Security • ML • System Design
 ⚡ Fun fact:
 Code > Courses. Projects > Certificates.
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F70000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Avinash+Goud;" alt="Typing SVG" />
-  </a>
-</h1>
-
 
 
 
