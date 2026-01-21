@@ -15,7 +15,7 @@ Impact-driven AI/ML, security, and full-stack projects
 📝 Learning:
 Advanced Python • Web Security • ML • System Design
 
-⚡ Fun fact:
+⚡ Practical truth:
 Code > Courses. Projects > Certificates.
 
 
