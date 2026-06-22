@@ -1,6 +1,6 @@
 # 💫 Avinash Goud
 # About Me:
-🚀 I build before I study.
+🚀 I build before I study. 
 Turning ideas into production-ready software.
 
 💡 Interests:
