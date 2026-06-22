@@ -1,7 +1,7 @@
 # 💫 Avinash Goud
 # About Me:
 🚀 I build before I study.
-Turning ideas into production-ready software.
+Turning ideas into production-ready software. 
 
 💡 Interests:
 AI • Cybersecurity • Full-Stack Engineering • Scalable Systems
