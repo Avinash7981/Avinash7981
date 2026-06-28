@@ -61,8 +61,8 @@ Code > Courses. Projects > Certificates.
 ---
 [![](https://visitcount.itsvg.in/api?id=Avinash7981&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash7981&layout=compact&langs_count=8&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
